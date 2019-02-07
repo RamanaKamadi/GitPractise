@@ -14,7 +14,7 @@ public class TestController {
 	@GetMapping("/hello")
 	public String  getDemo(@RequestBody String str,HttpRequest req){
 		
-		
+		System.out.println("helooooo");
 			
 		return "Hello";
 	}
