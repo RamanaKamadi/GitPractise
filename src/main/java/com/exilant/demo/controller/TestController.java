@@ -15,10 +15,9 @@ public class TestController {
 	public String  getDemo(@RequestBody String str,HttpRequest req){
 
 		System.out.println("hi.....Quest");
-
-	   
-        System.out.println("devi...");
-		System.out.println("helooooo");
+	    System.out.println("devi...");
+        System.out.println("hi.....Quest");
+        System.out.println("helooooo");
 		System.out.println("Welcome");
 		System.out.println("Rama");
 		return "Hello";
