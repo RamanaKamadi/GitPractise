@@ -13,7 +13,11 @@ public class TestController {
 
 	@GetMapping("/hello")
 	public String  getDemo(@RequestBody String str,HttpRequest req){
+<<<<<<< HEAD
 		System.out.println("hi.....Quest");
+=======
+		System.out.println("hi");
+>>>>>>> parent of 67efa5b... commited
 		System.out.println("helooooo");
 		System.out.println("Welcome");
 		System.out.println("Rama");
