@@ -17,7 +17,7 @@ public class TestController {
 		System.out.println("first....");
 	        System.out.println("second......");
 	        System.out.println("third......");
-    		return "Hello ramanakamadi";
+    		return "Hello ramakamadi";
 	}
 	
 }
